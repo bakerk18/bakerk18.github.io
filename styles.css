@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+}
+footer {
+    opacity: 0.5;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.header {
+    text-align: center;
+}
+.figure {
+    align-self: center;
+}
+#indexbody {
+    text-align: center;
+}
+#interests {
+    text-align: center;
+    list-style-position: inside;
+}
+button {
+    text-color = gray;
+}
