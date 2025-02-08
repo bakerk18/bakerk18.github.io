@@ -2,7 +2,7 @@
 title = 'Why write?'
 date = 2025-02-8T09:00:00-07:00
 draft = false
-tags = ['meta']
+tags = ['meta', 'writing']
 +++
 > *Semper ego auditor tantum?*  
 (Will I always just be a listener?)  
